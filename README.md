@@ -14,6 +14,14 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+## `image assests`
+Pixel-unsplash
+[https://unsplash.com/s/photos/food?orientation=landscape](https://unsplash.com/s/photos/food?orientation=landscape)
+
+## `third-party packages`
+[react-icons](https://react-icons.github.io/react-icons/search?q=faarro)
+
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
